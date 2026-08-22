@@ -1,0 +1,10 @@
+{
+  "product": "Signoff Studio",
+  "latest": "26.8.1",
+  "label": "26_08_01",
+  "channel": "latest",
+  "versions": ["26.8.1"],
+  "releases": "https://github.com/samuccaya/signoff-tool/releases/latest",
+  "atom": "https://github.com/samuccaya/signoff-tool/releases.atom",
+  "latestYml": "https://github.com/samuccaya/signoff-tool/releases/latest/download/latest.yml"
+}

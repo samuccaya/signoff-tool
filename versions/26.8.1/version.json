@@ -1,0 +1,17 @@
+{
+  "product": "Signoff Studio",
+  "version": "26.8.1",
+  "label": "26_08_01",
+  "channel": "latest",
+  "gitTag": "v26.8.1",
+  "branch": "26.8.1",
+  "releasedAt": "2026-08-17",
+  "feeds": {
+    "githubReleases": "https://github.com/samuccaya/signoff-tool/releases/tag/v26.8.1",
+    "atom": "https://github.com/samuccaya/signoff-tool/releases.atom",
+    "latestYml": "https://github.com/samuccaya/signoff-tool/releases/download/v26.8.1/latest.yml"
+  },
+  "download": {
+    "windowsX64": "https://github.com/samuccaya/signoff-tool/releases/download/v26.8.1/SignOff-studio-26.8.1-Setup.exe"
+  }
+}

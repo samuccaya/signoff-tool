@@ -1,0 +1,4 @@
+# Never commit installers or updater binaries to git.
+*.exe
+*.blockmap
+latest.yml
